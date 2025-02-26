@@ -34,7 +34,7 @@
 
 - ✅ Learn to make desktop applications and websites with database integration. [ Front-End and Back-End]
 - ✅ Use Electron to build a desktop application with live update integration like discord.
-- ❌ Learn how to edit and access memory of other applications with C++.
+- ⚠️ Learn how to edit and access memory of other applications with C++.
 
 
 
