@@ -10,7 +10,7 @@
   <h1 align="center">VILOH</h1>
 
   <p align="center">
-    Hi im Viloh my real name is Anthony and im a passionate developer that likes to make tools and applications that help others on the internet.
+    Hi im Viloh my real name is Anthony and im a developer that likes to make tools and applications that help others on the internet.
     <br />
     <br />
     <br />
